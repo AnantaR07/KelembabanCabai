@@ -15,10 +15,7 @@ It allows growers to remotely track environmental conditions like soil moisture 
   Uses ESP32 microcontroller connected to soil moisture sensors for accurate data capture.
 
 - ☁️ **Cloud Backend**  
-  Firebase handles real-time database storage, user authentication, and hosting.
-
-- 🔔 **Smart Alerts**  
-  Sends notifications when moisture levels drop below optimal for chili cultivation.
+  Firebase handles real-time database storage, & user authentication.
 
 - 📊 **Data Logging**  
   Maintains historical data to support decision-making in chili plant care.
